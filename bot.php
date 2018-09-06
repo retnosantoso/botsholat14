@@ -9,7 +9,7 @@ Modified @ Farzain - zFz
 require_once('./line_class.php');
 require_once('./unirest-php-master/src/Unirest.php');
 
-$channelAccessToken = 'oC1qmhvqe52nzNUhPWwkJFV5zR4WkVpJ3n+1aHBIHicktm6CuY/2OzF0UQl3cZRheWNMDYrrkMJ4UnORM0s/PBcvwhng70n/ch47bo+BpOPltYyunijodF0OLSQO9bNz5eBO3DMd7LXZIkD7c+PVdAdB04t89/1O/w1cDnyilFU=
+$channelAccessToken = 'Q+HqgGke3gvoVCcgxi4KghdJLOh9C4pYBBBpambiOF0Gbchi3nS5F1qkJ04lJAQEeWNMDYrrkMJ4UnORM0s/PBcvwhng70n/ch47bo+BpOPz6I0QIUMWecdZdDoR4/Qnsx6lGYZnkCX0MLtmM/jrLAdB04t89/1O/w1cDnyilFU=
 '; //sesuaikan 
 $channelSecret = '9a8fecfc6124448c6b61c6339a24c5c0
 ';//sesuaikan
